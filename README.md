@@ -8,7 +8,7 @@ Proyecto 2022-2 MIA UC, Proyecto Aplicado I
 <br />
 <div align="center">
 <a href="https://github.com/grojasc/image">
-    <img src="H&M-Logo.svg" alt="Logo" width="200" height="200">
+    <img src="H&M-Logo.png" alt="Logo" width="200" height="200">
 </a>
 
 <div align="left">
